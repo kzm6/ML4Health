@@ -1,0 +1,17 @@
+,precision,recall,f1-score,support
+EDAnonymous,0,0,0,555
+addiction,0.4,0.02,0.04,98
+adhd,0.62,0.2,0.31,1032
+alcoholism,0,0,0,94
+anxiety,0.45,0.45,0.45,1722
+autism,0.2,0.01,0.01,143
+bipolarreddit,0.17,0.01,0.01,143
+bpd,0.33,0.19,0.24,442
+depression,0.57,0.92,0.7,4874
+healthanxiety,0,0,0,155
+ptsd,0,0,0,151
+schizophrenia,0,0,0,227
+socialanxiety,0,0,0,546
+accuracy,,,0.54,10182
+macro avg,0.21,0.14,0.14,10182
+weighted avg,0.43,0.54,0.45,10182
