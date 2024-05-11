@@ -12,3 +12,6 @@ Any such data that need not be generated again, AND COULD FEASIBLY be uploaded t
 
 Certain files which were very large and could not be zipped (windows failure) or uploaded to github, will need to be run through the code. 
 
+EDIT - The very large output files (bert embeddings etc) can now be found in the BOX folder shared in the final report.
+
+
