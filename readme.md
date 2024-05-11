@@ -1,8 +1,8 @@
 This project is about using NLP for finding semantic patterns in mental health conditions.
 
 To run the project - 
-Go through FINAL.ipynb - it contains the entire structure of the project.
-Go through bert_create_embeddings - it contains how the MentalBERT model is used to create embeddings. 
+Go through FINAL.ipynb - it contains the entire structure of the project. The project has the following checkpoints - initial cleaning, tfidf, NMF, Sentiment, POS Tag, combine into an embedding, run an SVM.
+Then, go through bert_create_embeddings - it contains how the MentalBERT model is used to create embeddings. These embeddings are then used to train and run the same SVM as discussed earlier. Output classification tables are provided as csv files, since running the entire script will take roughly 2-3 hours at least, locally. 
 
 Any raw input data cannot be found here in the repo. Only output and checkpoints are present here. 
 
